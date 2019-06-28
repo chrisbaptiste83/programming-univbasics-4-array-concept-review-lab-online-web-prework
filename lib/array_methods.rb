@@ -12,7 +12,7 @@ def find_max_value(array)
 
 def find_min_value(array)
   array = [2,3,4,5]
- puts array.max
+ 
 puts array.min
 
 end
